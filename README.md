@@ -23,4 +23,6 @@ Here are a few of my projects:
 
 [Graphic project](https://github.com/Kolyan4ik99/sup3D)
 
-[Me mini vesrion Shell](https://github.com/Kolyan4ik99/myHell)
+[My mini vesrion Shell](https://github.com/Kolyan4ik99/myHell)
+
+
