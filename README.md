@@ -15,14 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Kolya. I live in Russia (Izhevsk). I study at ["School 21"](https://21-school.ru/)
+I'm Kolya. I live in Russia.
 
 Here are a few of my projects:
 
-[Project with concurrency (pthread)](https://github.com/Kolyan4ik99/philo)
+[CRUD REST API (Golang)](https://github.com/Kolyan4ik99/blog-app)
 
-[Graphic project](https://github.com/Kolyan4ik99/sup3D)
+[Project with concurrency (C - pthread)](https://github.com/Kolyan4ik99/philo)
 
-[Team project - mini version Shell](https://github.com/Kolyan4ik99/myHell)
+[Graphic project (C)](https://github.com/Kolyan4ik99/sup3D)
+
+[Team project - mini version Shell (C)](https://github.com/Kolyan4ik99/myHell)
 
 
