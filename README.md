@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Kolya. I'm excited about developing the backend. I am interested in golang, rust, java
+I'm Kolya. I'm excited about developing the backend. I'm interested in golang, rust, java
 
 Here are a few of my projects:
 
