@@ -17,14 +17,3 @@ Here are some ideas to get you started:
 
 I'm Kolya. I'm excited about developing the backend. I'm interested in golang, rust, java
 
-Here are a few of my projects:
-
-[CRUD REST API (Golang)](https://github.com/Kolyan4ik99/blog-app)
-
-[Project with concurrency (C - pthread)](https://github.com/Kolyan4ik99/philo)
-
-[Graphic project (C)](https://github.com/Kolyan4ik99/sup3D)
-
-[Team project - mini version Shell (C)](https://github.com/Kolyan4ik99/myHell)
-
-
